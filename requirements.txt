@@ -1,0 +1,11 @@
+# FastAPI - Modern web framework for building APIs
+fastapi==0.104.1
+
+# Uvicorn - ASGI server to run FastAPI
+uvicorn==0.24.0
+
+# HTTPX - Async HTTP client for making requests to external APIs
+httpx==0.25.1
+
+# Pydantic - Data validation using Python type hints
+pydantic==2.5.0
